@@ -1,0 +1,1 @@
+1. [미드 프렌즈 시즌1 1화 전체 리스닝 쉐도잉 36](https://youtu.be/4wS2KrEKsxQ)
