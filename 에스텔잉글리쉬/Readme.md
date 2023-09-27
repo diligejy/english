@@ -5,3 +5,6 @@
 
 3. ['부엌 안에 있어' 영어로? in the kitchen? in a kitchen? | 관사 헷갈리는 않는 법](https://youtu.be/yDHQEFTxRs8)
     - [Note](./Note/Help_me_보다_원어민들이_일상에서_더_많이_쓰는_표현_8개.md)
+
+4. [영어로 감정 표현하기! sad, happy를 넘어 더 풍부하게 표현해봐요!](https://youtu.be/ba5VW12cg00)
+    - [Note](./Note/영어로_감정_표현하기.md)
