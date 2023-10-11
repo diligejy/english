@@ -8,3 +8,9 @@
 
 4. [영어로 감정 표현하기! sad, happy를 넘어 더 풍부하게 표현해봐요!](https://youtu.be/ba5VW12cg00)
     - [Note](./Note/영어로_감정_표현하기.md)
+
+5. [[무료 복습자료 제공] 영어를 잘하고 싶다면? 이 영상으로 시작! 영어 필수 문장 110개 연속듣기](https://youtu.be/45I-0xu0-Uw)
+    - [Note](./Note/영어필수문장_110개.md)
+
+6. [종교가 있어요? Do you have religion?? 원어민들은 왜 이렇게 잘 안 쓸까?](https://youtu.be/r52F5zP4k1c)
+    - [Note](./Note/종교가_있어요_Do_you_have_religion_원어민_안쓰는이유.md)
