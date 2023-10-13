@@ -14,3 +14,5 @@
 
 6. [종교가 있어요? Do you have religion?? 원어민들은 왜 이렇게 잘 안 쓸까?](https://youtu.be/r52F5zP4k1c)
     - [Note](./Note/종교가_있어요_Do_you_have_religion_원어민_안쓰는이유.md)
+
+7. [원어민들이 정말 자주 쓰는 영어 표현 get to 무조건 정리해두세요!](https://youtu.be/Oh2JBzMd9Y8)
