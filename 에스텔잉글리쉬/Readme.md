@@ -16,3 +16,7 @@
     - [Note](./Note/종교가_있어요_Do_you_have_religion_원어민_안쓰는이유.md)
 
 7. [원어민들이 정말 자주 쓰는 영어 표현 get to 무조건 정리해두세요!](https://youtu.be/Oh2JBzMd9Y8)
+    - [Note](./Note/원어민들이_정말_자주_쓰는_표현_get_to.md)
+
+8. [get away with/get away from 무슨 뜻? (서로 비슷한 뜻 아님❌)](https://youtu.be/zcCVUdjxaWo)
+    - [Note](./Note/get_away_with_vs_get_away_from.md)
