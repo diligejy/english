@@ -20,3 +20,6 @@
 
 8. [get away with/get away from 무슨 뜻? (서로 비슷한 뜻 아님❌)](https://youtu.be/zcCVUdjxaWo)
     - [Note](./Note/get_away_with_vs_get_away_from.md)
+
+9. [cloudy의 뜻을 '흐린'으로 알고 있으면 안 된다고⁉️ | 스몰톡에 쓸 수 있는 정확한 날씨 표현들🌤️](https://youtu.be/WUOEcy8NPGk)
+    - [Note](./Note/스몰톡_정확한_날씨표현.md)
