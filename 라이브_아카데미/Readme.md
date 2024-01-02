@@ -1,0 +1,1 @@
+1. [영어 대화 가이드 ⟪ 명절 증후군 극복하기 ⟫ ](https://youtu.be/XiUHG2RAJw0?si=MgzbWL07-3rgCIYIhttps://youtu.be/XiUHG2RAJw0?si=MgzbWL07-3rgCIYI)
