@@ -3,3 +3,6 @@
 
 2. ["이해하다" I see는 I understand와 어떻게 다를까?ㅣ#shorts](https://youtu.be/H54Wa-iPpaw?si=vhQoKe_c1DvdHjsw)
     - [Note](./Note/I_Understand_vs_I_see.md)
+
+3. [굳은 발음으로 자연스럽게 커피 주문하기ㅣ발음연습+일상표현 영어ㅣ실생활영어 필수표현ㅣ영어회화ㅣ워어민영](https://youtu.be/MpWXsJ0km54)
+    - [Note](./Note/자연스럽게_커피_주문.md)
