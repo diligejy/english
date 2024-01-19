@@ -3,3 +3,5 @@
 2. [영어뉴스듣기(영한대역) : 교환학생 노린, 사이버납치](https://youtu.be/v81m97O_Mos)
 
 3. [영어뉴스듣기(영한대역) : 아이 없이 사는 게 대세? (ft. 미국 가정 형태의 미래)](https://youtu.be/j7O46eSlYNI)
+
+4. [영어뉴스듣기(영한대역) : 성능 좋은 AI칩 설계가 관건](https://youtu.be/wLifdMWqmSc)
