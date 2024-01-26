@@ -29,3 +29,6 @@
 
 11. [영어 잘 안 들리죠? 영어 귀뚫기, 이 훈련만 죽어라 해보세요! 왜 안 들렸는지 알게 됩니다!](https://youtu.be/_shVIjcMcao)
     - [Note](./Note/영어_귀뚫기_훈련.md)
+
+12. [네 느낌은 어때? How do you feel?❌ | 영어로 느낌/소감/의견 물어보기](https://youtu.be/pwCv31YysHo)
+    - [Note](./Note/영어로_느낌_소감_의견_물어보기.md)
