@@ -1,6 +1,6 @@
 1. [흘려들어도 친절한 설명으로 영어 소설 한편 쉽게 완독! 함께 읽어요!^^](https://youtu.be/EspieSqcr9I)
 
-2. [Help me!보다 원어민들이 일상에서 더 많이 쓰는 자연스러운 표현 8개](https://youtu.be/Zdo51qn2B4Y)
+2. [Help me!보다 원#어민들이 일상에서 더 많이 쓰는 자연스러운 표현 8개](https://youtu.be/Zdo51qn2B4Y)
     - [Note](./Note/Help_me_보다_원어민들이_일상에서_더_많이_쓰는_표현_8개.md)
 
 3. ['부엌 안에 있어' 영어로? in the kitchen? in a kitchen? | 관사 헷갈리는 않는 법](https://youtu.be/yDHQEFTxRs8)
@@ -32,3 +32,6 @@
 
 12. [네 느낌은 어때? How do you feel?❌ | 영어로 느낌/소감/의견 물어보기](https://youtu.be/pwCv31YysHo)
     - [Note](./Note/영어로_느낌_소감_의견_물어보기.md)
+
+13. [I have / I got / I have got / I have gotten 1초 만에 구분하고 이해하는 법!](https://youtu.be/GeUoEStDf_Y)
+    - [Note](./Note/I_have_I_got_I_have_got_I_have_gotten_구분_이해.md)
