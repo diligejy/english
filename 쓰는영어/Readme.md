@@ -9,3 +9,6 @@
 
 4. [외국에서 물건 잃어버렸을 때 무조건 쓰는 표현ㅣ원어민영어ㅣ생활회화표현](https://youtu.be/l2B2ulRQ5U0)
     - [Note](./Note/물건_잃어버렸을때.md)
+
+5. [이것만 알면 맛집에서 제일 맛있는거 먹을 수 있어요ㅣ바로쓰는 영어ㅣunit 38](https://youtu.be/sy4JL9tKuyw)
+    - [Note](./Note/맛집에서_바로쓰는영어_EP38.md)
