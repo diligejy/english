@@ -35,3 +35,7 @@
 
 13. [I have / I got / I have got / I have gotten 1초 만에 구분하고 이해하는 법!](https://youtu.be/GeUoEStDf_Y)
     - [Note](./Note/I_have_I_got_I_have_got_I_have_gotten_구분_이해.md)
+
+
+14. [주말에 뭐했어? 영어로 on weekend? on the weekend ? | 내 주말에 대해 영어로 말하는 법](https://youtu.be/SmglZHnlIpE)
+    - [Note](./Note/내_주말에_대해_영어로_말하는법.md)

@@ -1,0 +1,1 @@
+1. [우리도 일본처럼 th발음을 ㅈ로 했을 때가 있었습니다](https://youtu.be/vRLL6z-EuIE)
