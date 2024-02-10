@@ -39,3 +39,6 @@
 
 14. [주말에 뭐했어? 영어로 on weekend? on the weekend ? | 내 주말에 대해 영어로 말하는 법](https://youtu.be/SmglZHnlIpE)
     - [Note](./Note/내_주말에_대해_영어로_말하는법.md)
+
+15. [영어 어순 15분이면 끝! 문장으로 말하게 되는 영어 말 순서](https://youtu.be/oHpQzCFI9LI)
+    - [Note](./Note/영어_어순_15분.md)
