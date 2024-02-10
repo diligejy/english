@@ -24,3 +24,9 @@
 
 9. [영어이메일쓰기 (서두 03/05), #03B/#20, [JEFF BIZ ENGLISH] 비즈니스영어 한번에 끝내기](https://youtu.be/E4GPERBS34U?list=PLseg4fXHh8BY3_4am7Ke53S0wB0SrxKhi)
     - [Note](./Note/09_영어이메일_서두_03B.md)
+
+10. [영어이메일쓰기 (서두 04/05), #04/#20, [JEFF BIZ ENGLISH] 비즈니스영어 한번에 끝내기](https://youtu.be/CzSnHFHWImM?list=PLseg4fXHh8BY3_4am7Ke53S0wB0SrxKhi)
+    - [Note](./Note/10_영어이메일_서두_04.md)
+
+11. [영어이메일쓰기 (서두 04/05), #04A/#20, [JEFF BIZ ENGLISH] 비즈니스영어 한번에 끝내기](https://youtu.be/4KBNb1tEq9E?list=PLseg4fXHh8BY3_4am7Ke53S0wB0SrxKhi)
+    - [Note](./Note/11_영어이메일_서두_04A.md)
