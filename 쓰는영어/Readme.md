@@ -12,3 +12,6 @@
 
 5. [이것만 알면 맛집에서 제일 맛있는거 먹을 수 있어요ㅣ바로쓰는 영어ㅣunit 38](https://youtu.be/sy4JL9tKuyw)
     - [Note](./Note/맛집에서_바로쓰는영어_EP38.md)
+
+6. [all, whole, entire, almost, most 헷갈리는 영어표현 오늘 완전 끝내버리는 영상ㅣ정주행 영상ㅣ영문법](https://youtu.be/T_5JUshQbRg)    
+    - [Note](./Note/all_whole_entire_almost_most_헷갈리는_영어표현.md)
