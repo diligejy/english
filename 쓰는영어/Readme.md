@@ -15,3 +15,6 @@
 
 6. [all, whole, entire, almost, most 헷갈리는 영어표현 오늘 완전 끝내버리는 영상ㅣ정주행 영상ㅣ영문법](https://youtu.be/T_5JUshQbRg)    
     - [Note](./Note/all_whole_entire_almost_most_헷갈리는_영어표현.md)
+
+7. [밥먹듯이 많이 쓰이는 powerful English idiomsㅣ영어이디엄ㅣ숙어](https://youtu.be/T2mBiP_ghBE)
+    - [Note](./Note/많이_쓰이는_영어_이디엄.md)
