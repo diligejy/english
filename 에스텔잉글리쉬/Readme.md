@@ -42,3 +42,6 @@
 
 15. [영어 어순 15분이면 끝! 문장으로 말하게 되는 영어 말 순서](https://youtu.be/oHpQzCFI9LI)
     - [Note](./Note/영어_어순_15분.md)
+
+16. [[필수 영어] speak say tell talk 다 같은 '말하다' 아니에요 | 이렇게 배워야 평생 제대로 씁니다](https://youtu.be/wNQel60RBpA)
+    - [Note](./Note/Speak_Say_Tell_Talk.md)
