@@ -18,3 +18,6 @@
 
 7. [밥먹듯이 많이 쓰이는 powerful English idiomsㅣ영어이디엄ㅣ숙어](https://youtu.be/T2mBiP_ghBE)
     - [Note](./Note/많이_쓰이는_영어_이디엄.md)
+
+8. [의미가 다 다른 "~하는 게 낫겠어" 잘못 쓰면 싸움나요 ㅜㅜ ㅣ영어회화 ㅣ실생활 영어표현 ㅣ쓰이는 영문법](https://youtu.be/T0-aVTbI_zg)
+    - [Note](./Note/하는게_낫겠어_뉘앙스.md)
