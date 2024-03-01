@@ -45,3 +45,6 @@
 
 16. [[필수 영어] speak say tell talk 다 같은 '말하다' 아니에요 | 이렇게 배워야 평생 제대로 씁니다](https://youtu.be/wNQel60RBpA)
     - [Note](./Note/Speak_Say_Tell_Talk.md)
+
+17. [겨울왕국 장면 6~10 | 영어귀가 뻥 뚫리는 리스닝 훈련 120분 몰아보기](https://youtu.be/4i9QjgGsn8s)
+    - [Note](./Note/겨울왕국_6_10_l_r_청취연습.md)
