@@ -1,0 +1,1 @@
+1. [통번역사들은 영어 이렇게 배워요](https://youtu.be/eo-6HEf2kwM)
