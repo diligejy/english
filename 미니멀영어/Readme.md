@@ -3,3 +3,6 @@
 
 2. [내가 생각한 한국말을 영어로 바꾸는 방법, 쉽고 간단합니다!](https://youtu.be/eiF78EiYv6I)
     - [Note](./Note/내가_생각한_한국말을_영어로.md)
+
+3. [기초영어 돌아서면 까먹었다면? 이렇게 해보세요.](https://youtu.be/iBLbM3zHrEg)
+    - [Note](./Note/기초영어_돌아서면_까먹었다면.md)
