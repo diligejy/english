@@ -9,3 +9,5 @@
 
 4. [왕초보영어, 한국말을 영어로 쉽게 바꾸고 싶다면!](https://youtu.be/2N8dOdJl39U)
     - [Note](./Note/왕초보영어_한국말을_영어로_쉽게_바꾸고_싶다면.md)
+
+5. [원어민이 매일쓰는 기본동사 HAVE 핵심 5가지 의미](https://youtu.be/Bj1ETmSlE9k)
