@@ -11,3 +11,6 @@
     - [Note](./Note/왕초보영어_한국말을_영어로_쉽게_바꾸고_싶다면.md)
 
 5. [원어민이 매일쓰는 기본동사 HAVE 핵심 5가지 의미](https://youtu.be/Bj1ETmSlE9k)
+
+6. [정말 간단한 생활영어 10개 완전 정복. 이걸 알아야 입이 트입니다](https://youtu.be/JdNKDfVBHpc)
+    - [Note](./Note/정말_간단한_생활영어_10개_완전정복.md)
