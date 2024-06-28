@@ -47,3 +47,6 @@
 
 17. [영어 초보도 자연스럽게 말할 수 있습니다. 이대로 따라해주세요!](https://youtu.be/VHsT6t5jSZs)
     - [Note](./Note/17_영어_초보도_자연스럽게.md)
+
+18. [어색한 영어는 NO! 왕초보도 자연스럽게 말할 수 있습니다.](https://youtu.be/W3xd6a3sJ1g)
+    - [Note](./Note/18_어색한_영어는_NO)
