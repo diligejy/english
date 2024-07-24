@@ -49,4 +49,7 @@
     - [Note](./Note/17_영어_초보도_자연스럽게.md)
 
 18. [어색한 영어는 NO! 왕초보도 자연스럽게 말할 수 있습니다.](https://youtu.be/W3xd6a3sJ1g)
-    - [Note](./Note/18_어색한_영어는_NO)
+    - [Note](./Note/18_어색한_영어는_NO.md)
+
+19. [원어민이 매일 사용하는 표현들만 모았습니다. 이렇게 연습해주세요.](https://youtu.be/PkzdUh9kNI4)
+    - [Note](./Note/19_원어민표현.md)
