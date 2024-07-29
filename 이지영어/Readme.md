@@ -7,3 +7,5 @@
 4. [미국 부통령 카말라 해리스 첫 연설ㅣ바이든 후보교체ㅣ영어듣기중급#99](https://youtu.be/q46PJtRljGo)
 
 5. [[영어듣기중급#101] 레오나르도 디카프리오 리즈시절 인터뷰](https://www.youtube.com/watch?v=bSB3rBKPSJI)
+
+6. [[영어듣기초급#305] 영어 듣기 평가 잘 하셨나요?ㅣ추억이 새록새록ㅣ쉐도잉까지](https://youtu.be/rIR4ypiKBkM)
