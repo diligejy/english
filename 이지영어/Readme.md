@@ -5,3 +5,5 @@
 3. [[영어듣기중급#98] 암살 시도 후 첫 연설ㅣ도널드 트럼프](https://youtu.be/n5IHxVT3ZHk)
 
 4. [미국 부통령 카말라 해리스 첫 연설ㅣ바이든 후보교체ㅣ영어듣기중급#99](https://youtu.be/q46PJtRljGo)
+
+5. [[영어듣기중급#101] 레오나르도 디카프리오 리즈시절 인터뷰](https://www.youtube.com/watch?v=bSB3rBKPSJI)
