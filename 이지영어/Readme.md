@@ -9,3 +9,11 @@
 5. [[영어듣기중급#101] 레오나르도 디카프리오 리즈시절 인터뷰](https://www.youtube.com/watch?v=bSB3rBKPSJI)
 
 6. [[영어듣기초급#305] 영어 듣기 평가 잘 하셨나요?ㅣ추억이 새록새록ㅣ쉐도잉까지](https://youtu.be/rIR4ypiKBkM)
+
+7. [당신이 30대 이상이라면?ㅣ영어 초보자라면?ㅣ무조건 해봐야 할 방법](https://youtu.be/61ZbjZbGFto)
+
+8. [[영어듣기중급#97] 아랍에미네이트 인공지능 국무부 장관ㅣ오마르 알 올라마](https://youtu.be/hp-3OFRAcis)
+
+9. [어렵다고 포기하지말고, 계속 도전해보세요. 익숙해져야 해요: 영어듣기중급 쉐도잉ㅣ영국발음 ](https://youtu.be/CWKtJqo7_PE?si=qlzhT9MBGnG-J0Aj)
+
+10. [영어연설 동기부여:  5 minutes for the next 50 years of your life. ](https://youtu.be/F1cTdbWG4so?si=royubzdTJeTQoVxJ)
