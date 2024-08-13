@@ -17,3 +17,7 @@
 9. [어렵다고 포기하지말고, 계속 도전해보세요. 익숙해져야 해요: 영어듣기중급 쉐도잉ㅣ영국발음 ](https://youtu.be/CWKtJqo7_PE?si=qlzhT9MBGnG-J0Aj)
 
 10. [영어연설 동기부여:  5 minutes for the next 50 years of your life. ](https://youtu.be/F1cTdbWG4so?si=royubzdTJeTQoVxJ)
+
+11. [아무 생각없이 틀어 놓기만 해도 영어가 술술 나와요ㅣ영어흘려듣기 ](https://youtu.be/ZqXJniRaPqY?si=gYIt2CcOIlAlrqMe)
+
+12. [[영어듣기중급#108] 분명...쉬운 단어인데 안 들리는 이유는?ㅣ조쉬하트넷 리즈ㅣ셀럽인터뷰ㅣ실제원어민속도 ](https://youtu.be/O6COXpAcPYI?si=QDADmmAhDyvv59RU)
