@@ -53,3 +53,6 @@
 
 19. [원어민이 매일 사용하는 표현들만 모았습니다. 이렇게 연습해주세요.](https://youtu.be/PkzdUh9kNI4)
     - [Note](./Note/19_원어민표현.md)
+
+20. [1일 10문장으로 초보 영어 완전 정복, 쉬운 팁을 따라해보세요 (원어민 영어회화 13강) ](https://youtu.be/xIu31VIvtJQ?si=ghfL4qjBwyMyNOi_)
+    - [Note](./Note/20_원어민_영어회화.md)
