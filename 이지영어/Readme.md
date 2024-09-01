@@ -21,3 +21,6 @@
 11. [아무 생각없이 틀어 놓기만 해도 영어가 술술 나와요ㅣ영어흘려듣기 ](https://youtu.be/ZqXJniRaPqY?si=gYIt2CcOIlAlrqMe)
 
 12. [[영어듣기중급#108] 분명...쉬운 단어인데 안 들리는 이유는?ㅣ조쉬하트넷 리즈ㅣ셀럽인터뷰ㅣ실제원어민속도 ](https://youtu.be/O6COXpAcPYI?si=QDADmmAhDyvv59RU)
+
+13. [2024 미셸 오바마의 연설ㅣ영어중급ㅣ영어쉐도잉연습](https://youtu.be/7zJNkkxM5sQ)
+
