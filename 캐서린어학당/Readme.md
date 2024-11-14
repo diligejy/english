@@ -8,3 +8,6 @@
 
 4. [비데에 머리 감다, 남자친구와 갈라서다, 영어로는?](https://youtu.be/XIdebDaAu3g)
     - [Note](./Note/04_비데에_머리감다_남자친구와_갈라서다.md)
+
+5. [후질근한 옷, 책 잡혔다, 미드 속 the비교급 구문](https://youtu.be/zZ22MPrx-N8)
+    - [Note](./Note/05_후질근한_the비교급.md)
