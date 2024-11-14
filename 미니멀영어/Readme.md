@@ -56,3 +56,7 @@
 
 20. [1일 10문장으로 초보 영어 완전 정복, 쉬운 팁을 따라해보세요 (원어민 영어회화 13강) ](https://youtu.be/xIu31VIvtJQ?si=ghfL4qjBwyMyNOi_)
     - [Note](./Note/20_원어민_영어회화.md)
+
+21. [영어가 쉬워진다! 15분 만에 끝내는 기초 회화 필수 표현](https://youtu.be/idFJ4yKGGF4)
+    - [Note](./Note/21_영어기초표현.md)
+    
