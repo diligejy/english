@@ -60,3 +60,5 @@
 21. [영어가 쉬워진다! 15분 만에 끝내는 기초 회화 필수 표현](https://youtu.be/idFJ4yKGGF4)
     - [Note](./Note/21_영어기초표현.md)
     
+22. [더이상 영어로 고민하지 마세요! 단 15분만에 끝내는 기초표현 정복](https://youtu.be/1Trf5Gpo704)
+    - [Note](./Note/22_영어기초표현.md)
