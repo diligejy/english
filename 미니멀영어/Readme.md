@@ -62,3 +62,6 @@
     
 22. [더이상 영어로 고민하지 마세요! 단 15분만에 끝내는 기초표현 정복](https://youtu.be/1Trf5Gpo704)
     - [Note](./Note/22_영어기초표현.md)
+
+23. [영어 두려움 끝! 초보자도 쉽게 말하는 필수 영어표현 10개](https://youtu.be/rOiG8Uq3fDQ)
+    - [Note](./Note/23_영어표현.md)
