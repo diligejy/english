@@ -1,0 +1,1 @@
+1. [미쉘오바마 재치 넘치는 토크 I 원어민이 자주 쓰는 표현 only so many 정확한 뜻 알기 I 영어 리스닝 쉐도잉](https://youtu.be/T4ApzTlICHw)
