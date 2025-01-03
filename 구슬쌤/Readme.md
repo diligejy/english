@@ -6,3 +6,6 @@
 
 3. [It would go a long way. 3초 안에 해석이 안되면 꼭 보세요😯🩵(contagious😷, long way to go까지)](https://youtu.be/-u2e_ENR1rg)
     - [Note](./Note/03_It_would_go_a_long_way.md)
+
+4. [I don't care for it은 신경 안 쓴다는게 아니에요😭(방심하면 오역하는 일상표현 3개💚) ](https://youtu.be/AjbJymdAPi4?si=rld5GId-JQz1GNx4)
+    - [Note](./Note/04_I_dont_care_for_it.md)
