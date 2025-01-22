@@ -9,3 +9,6 @@
 
 4. [I don't care for it은 신경 안 쓴다는게 아니에요😭(방심하면 오역하는 일상표현 3개💚) ](https://youtu.be/AjbJymdAPi4?si=rld5GId-JQz1GNx4)
     - [Note](./Note/04_I_dont_care_for_it.md)
+
+5. [헷갈리면 안되는 For once vs. At once 확실히 정리하기👍💙 (+ every once in a while까지!)](https://youtu.be/tSurIhCf-CI)
+    - [Note](./Note/05_for_once_at_once.md)
