@@ -21,3 +21,6 @@
 
 8. [의미가 다 다른 "~하는 게 낫겠어" 잘못 쓰면 싸움나요 ㅜㅜ ㅣ영어회화 ㅣ실생활 영어표현 ㅣ쓰이는 영문법](https://youtu.be/T0-aVTbI_zg)
     - [Note](./Note/하는게_낫겠어_뉘앙스.md)
+
+9. [[그나저나] anyway 와 by the way의 차이점은 뭘까요?ㅣ원어민 실생활 영어ㅣ기초회화ㅣ의미차이ㅣ네이티브 영어](https://youtu.be/yGCpau_7OPI)
+    - [Note](./Note/09_Anyway_Bytheway.md)
