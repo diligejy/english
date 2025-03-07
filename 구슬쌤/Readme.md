@@ -15,3 +15,9 @@
 
 6. [진짜 많이 오역하는 I'll entertain the idea (재미있는 아이디어 아님😳👉👈)](https://youtu.be/UND9JmztSWI)
     - [Note](./Note/06_I_will_entertain_the_idea.md)
+
+7. [Obviously를 매번 '명백하게'로만 해석한다면 꼭 보세요🙇(더 자연스럽게 해석하기🩵)](https://youtu.be/T2yIEkCVZnU)
+    - [Note](./Note/07_Obviously_해석.md)
+
+8. [It escalated quickly는 빠른 에스컬레이터가 아니에요😬💔(오역하기 쉬운 표현 정리!)](https://youtu.be/2RbUg4wEVfA)
+    - [Note](./Note/08_It_escalated_quickly.md)
