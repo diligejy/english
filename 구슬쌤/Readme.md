@@ -21,3 +21,6 @@
 
 8. [It escalated quickly는 빠른 에스컬레이터가 아니에요😬💔(오역하기 쉬운 표현 정리!)](https://youtu.be/2RbUg4wEVfA)
     - [Note](./Note/08_It_escalated_quickly.md)
+
+9. [누구나 알아야 할 영문 이메일 기본 뼈대 표현 10개 (특히 follow up의 활용법은 꼭 알아두세요)](https://youtu.be/ubjOt4gIhTs)
+    - [Note](./Note/09_누구나_알아야_할_영문_이메일_기본_뼈대_표현_10개.md)
