@@ -24,3 +24,6 @@
 
 9. [누구나 알아야 할 영문 이메일 기본 뼈대 표현 10개 (특히 follow up의 활용법은 꼭 알아두세요)](https://youtu.be/ubjOt4gIhTs)
     - [Note](./Note/09_누구나_알아야_할_영문_이메일_기본_뼈대_표현_10개.md)
+
+10. [We're 10% shy. 조금 부끄럽다고 해석하면 꼭 보세요🫣(+ reassuring, handpick까지 정리💜) ](https://youtu.be/C6Cp2W6FZEE?si=a4XxYu5lmUI9wmlN)
+    - [Note](./Note/10_We_are_10%25_Shy.md)
