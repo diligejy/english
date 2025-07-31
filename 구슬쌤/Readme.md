@@ -27,3 +27,6 @@
 
 10. [We're 10% shy. 조금 부끄럽다고 해석하면 꼭 보세요🫣(+ reassuring, handpick까지 정리💜) ](https://youtu.be/C6Cp2W6FZEE?si=a4XxYu5lmUI9wmlN)
     - [Note](./Note/10_We_are_10%25_Shy.md)
+
+11. [시간과 관련있다는게 아닌 Time is relative😳(발음도 릴레이티브 아님👀🖤)](https://youtu.be/t8zK9OWo7Ao)
+    - [Note](./Note/11_Time_is_relative.md)
