@@ -30,3 +30,6 @@
 
 11. [시간과 관련있다는게 아닌 Time is relative😳(발음도 릴레이티브 아님👀🖤)](https://youtu.be/t8zK9OWo7Ao)
     - [Note](./Note/11_Time_is_relative.md)
+
+12. [Even 끝판왕 강의! 10분만에 Even과 친해질 수 있어요🫂💗](https://youtu.be/ZnvnJOBsH1c)
+    - [Note](./Note/12_Even.md)
