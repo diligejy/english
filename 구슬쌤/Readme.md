@@ -33,3 +33,6 @@
 
 12. [Even 끝판왕 강의! 10분만에 Even과 친해질 수 있어요🫂💗](https://youtu.be/ZnvnJOBsH1c)
     - [Note](./Note/12_Even.md)
+
+13. [정말 많이 오역하는 It's all-consuming (다 써버려 아님💸)](https://youtu.be/UykWLrGLGoU)
+    - [Note](./Note/13_Its_all_consuing.md)
