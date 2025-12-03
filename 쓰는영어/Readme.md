@@ -27,3 +27,6 @@
 
 10. ["~하러 가다"go to drink 이 어색한 이유ㅣ시급한 교정ㅣ영어회화ㅣ헷갈리는 표현](https://youtu.be/kxINVBotN-s)
     - [Note](./Note/10_하러가다_go_to_drink_어색.md)
+
+11. [망치다 spoil의 일상생활 표현 ㅣ유용한 영어표현 ㅣ영어회화ㅣ실생활영어ㅣ필수표현](https://youtu.be/MpmEW5ib2Js)
+    - [Note](./Note/)
