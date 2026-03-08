@@ -3,3 +3,6 @@
 
 2. [“눈치 보이다” 영어로 뭐라고 할까? | 2주 영어 뉘앙스 챌린지 Day 5](https://youtu.be/OEfa1cyM0qE)
     - [Note](./Note/02_눈치보이다.md)
+
+3. [“나 좀 서운했어” 영어로 뭐라고 할까? | 2주 영어 뉘앙스 챌린지 Day 4](https://youtu.be/Wt3qKLzrfs4)
+    - [Note](./Note/03_서운했어.md) 
