@@ -6,3 +6,6 @@
 
 3. [“나 좀 서운했어” 영어로 뭐라고 할까? | 2주 영어 뉘앙스 챌린지 Day 4](https://youtu.be/Wt3qKLzrfs4)
     - [Note](./Note/03_서운했어.md) 
+
+4. [“철들었다” 영어로 뭐라고 할까? | 2주 영어 뉘앙스 챌린지 Day 11](https://youtu.be/Xc6ZjIb8mZA)
+    - [Note](./Note/04_철들었다.md)
