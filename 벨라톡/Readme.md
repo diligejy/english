@@ -9,3 +9,6 @@
 
 4. [“철들었다” 영어로 뭐라고 할까? | 2주 영어 뉘앙스 챌린지 Day 11](https://youtu.be/Xc6ZjIb8mZA)
     - [Note](./Note/04_철들었다.md)
+
+5. [“나 요즘 너무 정신없어” 영어로 어떻게 다를까? | 2주 영어 뉘앙스 챌린지 Day 2](https://youtu.be/ClVSy7AHvag)
+    - [Note](./Note/05_정신없어.md)
