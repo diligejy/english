@@ -6,3 +6,6 @@
 
 3. [같은 “시작”인데 왜 다르죠? Kick off와 Start의 차이 | 원어민이 매일 쓰는 영어표현 알아보기](https://youtu.be/XN8CHo_rO00)
     - [Note](./Note/03_같은_시작_Kick_off_Start_차이.md)
+
+4. [원어민들이 정말 많이 쓰는 영어 패턴 | 거절할때 이렇게 말합니다!](https://youtu.be/WPMxAtjlDD0)
+    - [Note](./Note/04_원어민들이_많이_쓰는_영어_패턴_거절할때_이렇게_말합니다.md)
