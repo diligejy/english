@@ -36,3 +36,6 @@
 
 13. [정말 많이 오역하는 It's all-consuming (다 써버려 아님💸)](https://youtu.be/UykWLrGLGoU)
     - [Note](./Note/13_Its_all_consuing.md)
+
+14. [It paid for itself. 3초 안에 해석 안되면 꼭 보세요😎💵(Itself 평소 쉽게 쓰는법)](https://youtu.be/BiOy1nH8oNw)
+    - [Note](./Note/14_It_Paid_for_itself.md)

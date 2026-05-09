@@ -12,3 +12,6 @@
 
 5. [“나 요즘 너무 정신없어” 영어로 어떻게 다를까? | 2주 영어 뉘앙스 챌린지 Day 2](https://youtu.be/ClVSy7AHvag)
     - [Note](./Note/05_정신없어.md)
+
+6. [『66일 영어 말하기 감각 훈련』 챌린지 DAY 35 전치사 “in" 마스터 하기](https://youtu.be/D5gqdsUEX-4)
+    - [Note](./Note/06_Day_35_%20전치사_In.md)
