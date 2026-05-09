@@ -30,3 +30,6 @@
 
 11. [망치다 spoil의 일상생활 표현 ㅣ유용한 영어표현 ㅣ영어회화ㅣ실생활영어ㅣ필수표현](https://youtu.be/MpmEW5ib2Js)
     - [Note](./Note/)
+
+12. [while과 during 구분법 끝판왕 ㅣ~동안 ㅣ전치사 구별법ㅣ영문법ㅣ실생활영어](https://youtu.be/UiIw3_imyU0)
+    - [Note](./Note/12_while_vs_during.md)
